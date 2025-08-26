@@ -1,0 +1,22 @@
+
+INSERT INTO categorias (nome) VALUES
+('Eletrônicos'),
+('Acessórios'),
+('Eletrodomésticos'),
+('Móveis'),
+('Roupas'),
+('Calçados'),
+('Esportes'),
+('Brinquedos'),
+('Beleza e Saúde'),
+('Automotivo'),
+('Livros'),
+('Papelaria'),
+('Ferramentas'),
+('Casa e Jardim'),
+('Pet Shop'),
+('Informática'),
+('Câmeras e Fotografia'),
+('Música e Instrumentos'),
+('Games'),
+('Relógios e Joias');

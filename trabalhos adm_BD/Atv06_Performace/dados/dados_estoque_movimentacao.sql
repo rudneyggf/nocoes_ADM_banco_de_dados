@@ -1,0 +1,120 @@
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (20,"Entrada",12),
+  (18,"Saída",11),
+  (56,"Saída",23),
+  (3,"Saída",30),
+  (42,"Entrada",11),
+  (77,"Entrada",19),
+  (61,"Saída",28),
+  (47,"Saída",13),
+  (40,"Saída",28),
+  (38,"Entrada",17);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (1,"Saída",9),
+  (24,"Saída",7),
+  (12,"Entrada",12),
+  (15,"Saída",21),
+  (73,"Saída",13),
+  (43,"Entrada",16),
+  (24,"Entrada",20),
+  (77,"Entrada",24),
+  (46,"Entrada",19),
+  (66,"Entrada",23);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (80,"Entrada",10),
+  (64,"Saída",25),
+  (32,"Entrada",21),
+  (74,"Entrada",25),
+  (29,"Entrada",6),
+  (2,"Saída",25),
+  (67,"Saída",12),
+  (17,"Entrada",29),
+  (35,"Saída",9),
+  (68,"Entrada",19);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (21,"Entrada",14),
+  (17,"Saída",29),
+  (26,"Entrada",11),
+  (24,"Saída",20),
+  (18,"Entrada",20),
+  (63,"Entrada",21),
+  (33,"Entrada",18),
+  (30,"Saída",2),
+  (23,"Entrada",26),
+  (31,"Entrada",20);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (24,"Saída",25),
+  (36,"Entrada",9),
+  (31,"Saída",4),
+  (36,"Entrada",25),
+  (75,"Entrada",19),
+  (47,"Entrada",15),
+  (67,"Entrada",9),
+  (47,"Entrada",9),
+  (29,"Saída",6),
+  (55,"Entrada",25);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (64,"Saída",4),
+  (42,"Entrada",20),
+  (71,"Saída",29),
+  (2,"Saída",19),
+  (2,"Saída",29),
+  (78,"Entrada",12),
+  (5,"Entrada",24),
+  (17,"Saída",4),
+  (8,"Entrada",11),
+  (47,"Entrada",27);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (75,"Saída",13),
+  (39,"Saída",29),
+  (24,"Entrada",12),
+  (6,"Saída",10),
+  (51,"Saída",23),
+  (75,"Saída",6),
+  (49,"Saída",13),
+  (38,"Saída",21),
+  (52,"Entrada",3),
+  (22,"Entrada",22);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (34,"Entrada",22),
+  (13,"Saída",25),
+  (68,"Saída",14),
+  (8,"Entrada",21),
+  (35,"Entrada",26),
+  (29,"Saída",14),
+  (6,"Entrada",29),
+  (39,"Entrada",8),
+  (66,"Entrada",29),
+  (2,"Saída",20);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (78,"Saída",13),
+  (23,"Saída",29),
+  (71,"Entrada",20),
+  (77,"Saída",7),
+  (72,"Saída",6),
+  (4,"Saída",27),
+  (74,"Saída",20),
+  (73,"Entrada",28),
+  (49,"Saída",11),
+  (7,"Entrada",24);
+INSERT INTO `estoque_movimentacao` (`produto_id`,`tipo`,`quantidade`)
+VALUES
+  (4,"Entrada",27),
+  (53,"Saída",16),
+  (22,"Entrada",20),
+  (1,"Saída",9),
+  (45,"Entrada",4),
+  (39,"Entrada",6),
+  (19,"Saída",1),
+  (25,"Entrada",18),
+  (24,"Entrada",1),
+  (24,"Saída",15);

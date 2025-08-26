@@ -1,0 +1,120 @@
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (1,1,"Pendente",83771),
+  (2,2,"Cancelado",75500),
+  (3,3,"Cancelado",90272),
+  (4,4,"Pago",56667),
+  (5,5,"Entregue",32747),
+  (6,6,"Enviado",71207),
+  (7,7,"Pago",12960),
+  (8,8,"Enviado",76769),
+  (9,9,"Entregue",72927),
+  (10,10,"Enviado",15971);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (11,11,"Entregue",58591),
+  (12,12,"Entregue",26615),
+  (13,13,"Enviado",18831),
+  (14,14,"Cancelado",87328),
+  (15,15,"Enviado",85770),
+  (16,16,"Entregue",76102),
+  (17,17,"Enviado",92891),
+  (18,18,"Pago",17661),
+  (19,19,"Entregue",11481),
+  (20,20,"Enviado",79289);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (21,21,"Enviado",95273),
+  (22,22,"Pago",67049),
+  (23,23,"Pago",63321),
+  (24,24,"Enviado",12013),
+  (25,25,"Pago",53041),
+  (26,26,"Cancelado",80416),
+  (27,27,"Enviado",84735),
+  (28,28,"Pago",11879),
+  (29,29,"Enviado",93033),
+  (30,30,"Enviado",61430);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (31,31,"Entregue",6749),
+  (32,32,"Enviado",35714),
+  (33,33,"Cancelado",62506),
+  (34,34,"Pendente",8345),
+  (35,35,"Enviado",78957),
+  (36,36,"Enviado",60979),
+  (37,37,"Enviado",68664),
+  (38,38,"Pago",28085),
+  (39,39,"Enviado",51844),
+  (40,40,"Cancelado",58469);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (41,41,"Pendente",99790),
+  (42,42,"Entregue",62607),
+  (43,43,"Enviado",18376),
+  (44,44,"Entregue",71418),
+  (45,45,"Entregue",68548),
+  (46,46,"Entregue",3551),
+  (47,47,"Pago",64658),
+  (48,48,"Pendente",9355),
+  (49,49,"Pendente",56486),
+  (50,50,"Pago",79286);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (51,51,"Pago",88570),
+  (52,52,"Cancelado",53216),
+  (53,53,"Entregue",60439),
+  (54,54,"Enviado",37442),
+  (55,55,"Entregue",13623),
+  (56,56,"Cancelado",25258),
+  (57,57,"Enviado",30943),
+  (58,58,"Cancelado",77982),
+  (59,59,"Enviado",94273),
+  (60,60,"Entregue",73083);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (61,61,"Entregue",4937),
+  (62,62,"Pendente",9912),
+  (63,63,"Pago",20234),
+  (64,64,"Pago",47595),
+  (65,65,"Cancelado",47262),
+  (66,66,"Pago",97424),
+  (67,67,"Cancelado",95207),
+  (68,68,"Pago",87450),
+  (69,69,"Cancelado",48428),
+  (70,70,"Entregue",70189);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (71,71,"Enviado",32602),
+  (72,72,"Cancelado",93031),
+  (73,73,"Cancelado",78905),
+  (74,74,"Pago",88511),
+  (75,75,"Entregue",42383),
+  (76,76,"Pendente",23700),
+  (77,77,"Pendente",58655),
+  (78,78,"Cancelado",96282),
+  (79,79,"Enviado",51250),
+  (80,80,"Entregue",26418);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (81,81,"Entregue",65677),
+  (82,82,"Entregue",53094),
+  (83,83,"Pago",85221),
+  (84,84,"Pago",21037),
+  (85,85,"Entregue",25802),
+  (86,86,"Enviado",84963),
+  (87,87,"Cancelado",76199),
+  (88,88,"Pendente",82911),
+  (89,89,"Pago",37580),
+  (90,90,"Entregue",66486);
+INSERT INTO `pedidos` (`cliente_id`,`endereco_id`,`status`,`total`)
+VALUES
+  (91,91,"Enviado",60557),
+  (92,92,"Pendente",10739),
+  (93,93,"Pago",74816),
+  (94,94,"Entregue",11281),
+  (95,95,"Pendente",32851),
+  (96,96,"Cancelado",51289),
+  (97,97,"Entregue",28044),
+  (98,98,"Cancelado",42630),
+  (99,99,"Pago",38367),
+  (100,100,"Pendente",69700);

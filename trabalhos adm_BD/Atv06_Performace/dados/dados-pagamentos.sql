@@ -1,0 +1,120 @@
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (1,65486,"Transferência","Rejeitado"),
+  (2,54439,"Boleto","Rejeitado"),
+  (3,44659,"Cartão","Rejeitado"),
+  (4,14365,"Pix","Aprovado"),
+  (5,68322,"Boleto","Rejeitado"),
+  (6,24523,"Pix","Rejeitado"),
+  (7,44291,"Pix","Rejeitado"),
+  (8,31245,"Cartão","Rejeitado"),
+  (9,61721,"Boleto","Aprovado"),
+  (10,21743,"Boleto","Rejeitado");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (11,21280,"Pix","Rejeitado"),
+  (12,61545,"Boleto","Pendente"),
+  (13,49260,"Transferência","Pendente"),
+  (14,65032,"Pix","Rejeitado"),
+  (15,72968,"Boleto","Rejeitado"),
+  (16,49278,"Boleto","Pendente"),
+  (17,98154,"Pix","Rejeitado"),
+  (18,35526,"Boleto","Aprovado"),
+  (19,87153,"Boleto","Rejeitado"),
+  (20,51472,"Boleto","Rejeitado");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (21,29695,"Boleto","Rejeitado"),
+  (22,55049,"Transferência","Rejeitado"),
+  (23,58476,"Pix","Aprovado"),
+  (24,81486,"Boleto","Rejeitado"),
+  (25,22033,"Transferência","Rejeitado"),
+  (26,91802,"Cartão","Rejeitado"),
+  (27,79408,"Transferência","Aprovado"),
+  (28,25426,"Transferência","Rejeitado"),
+  (29,36666,"Pix","Aprovado"),
+  (30,54129,"Pix","Rejeitado");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (31,80363,"Pix","Rejeitado"),
+  (32,12655,"Cartão","Rejeitado"),
+  (33,50536,"Pix","Aprovado"),
+  (34,91469,"Boleto","Pendente"),
+  (35,1080,"Cartão","Pendente"),
+  (36,23230,"Boleto","Rejeitado"),
+  (37,79202,"Pix","Rejeitado"),
+  (38,27883,"Transferência","Rejeitado"),
+  (39,53632,"Boleto","Rejeitado"),
+  (40,64279,"Transferência","Rejeitado");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (41,7014,"Boleto","Rejeitado"),
+  (42,44791,"Cartão","Pendente"),
+  (43,94511,"Cartão","Aprovado"),
+  (44,58142,"Boleto","Rejeitado"),
+  (45,70324,"Pix","Rejeitado"),
+  (46,86254,"Pix","Rejeitado"),
+  (47,59139,"Cartão","Aprovado"),
+  (48,31447,"Boleto","Pendente"),
+  (49,72934,"Pix","Aprovado"),
+  (50,77325,"Transferência","Pendente");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (51,72039,"Boleto","Rejeitado"),
+  (52,28263,"Pix","Rejeitado"),
+  (53,45487,"Boleto","Pendente"),
+  (54,72011,"Cartão","Pendente"),
+  (55,29177,"Pix","Pendente"),
+  (56,70951,"Boleto","Pendente"),
+  (57,5705,"Pix","Pendente"),
+  (58,54607,"Boleto","Rejeitado"),
+  (59,6108,"Pix","Pendente"),
+  (60,66424,"Cartão","Rejeitado");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (61,7088,"Pix","Rejeitado"),
+  (62,60286,"Cartão","Rejeitado"),
+  (63,5794,"Cartão","Rejeitado"),
+  (64,21143,"Cartão","Rejeitado"),
+  (65,69506,"Cartão","Pendente"),
+  (66,3884,"Cartão","Rejeitado"),
+  (67,91393,"Cartão","Rejeitado"),
+  (68,53809,"Cartão","Rejeitado"),
+  (69,58989,"Boleto","Rejeitado"),
+  (70,58533,"Cartão","Rejeitado");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (71,97087,"Boleto","Pendente"),
+  (72,79077,"Boleto","Pendente"),
+  (73,85083,"Boleto","Aprovado"),
+  (74,6739,"Pix","Aprovado"),
+  (75,75437,"Transferência","Pendente"),
+  (76,28669,"Boleto","Pendente"),
+  (77,82668,"Pix","Rejeitado"),
+  (78,19095,"Transferência","Aprovado"),
+  (79,34605,"Cartão","Rejeitado"),
+  (80,5851,"Transferência","Rejeitado");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (81,53047,"Pix","Aprovado"),
+  (82,22146,"Pix","Aprovado"),
+  (83,46120,"Cartão","Aprovado"),
+  (84,79375,"Pix","Rejeitado"),
+  (85,24611,"Pix","Rejeitado"),
+  (86,69415,"Boleto","Aprovado"),
+  (87,5765,"Transferência","Rejeitado"),
+  (88,73188,"Transferência","Pendente"),
+  (89,69488,"Transferência","Aprovado"),
+  (90,76557,"Transferência","Rejeitado");
+INSERT INTO `pagamentos` (`pedido_id`,`valor`,`metodo`,`status`)
+VALUES
+  (91,68862,"Cartão","Rejeitado"),
+  (92,63602,"Boleto","Aprovado"),
+  (93,45607,"Pix","Rejeitado"),
+  (94,35015,"Boleto","Pendente"),
+  (95,11834,"Pix","Rejeitado"),
+  (96,6579,"Boleto","Aprovado"),
+  (97,13320,"Pix","Pendente"),
+  (98,41159,"Cartão","Aprovado"),
+  (99,18373,"Transferência","Aprovado"),
+  (100,11346,"Boleto","Rejeitado");

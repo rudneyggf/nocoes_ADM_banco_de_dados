@@ -1,0 +1,96 @@
+INSERT INTO `produtos` (`nome`,`categoria_id`,`preco`,`estoque`)
+VALUES
+  ("produto_HXA",13,1904,17),
+  ("produto_PSD",14,1872,26),
+  ("produto_ZXD",6,2504,88),
+  ("produto_RST",15,1785,24),
+  ("produto_ISD",15,2447,78),
+  ("produto_WWE",3,834,42),
+  ("produto_PND",5,1046,46),
+  ("produto_XRF",3,1987,28),
+  ("produto_FLK",18,1093,10),
+  ("produto_UQC",16,1910,32);
+INSERT INTO `produtos` (`nome`,`categoria_id`,`preco`,`estoque`)
+VALUES
+  ("produto_PND",3,2916,68),
+  ("produto_YZC",4,615,35),
+  ("produto_AOJ",16,223,74),
+  ("produto_VMJ",7,1940,88),
+  ("produto_XRF",13,711,97),
+  ("produto_MNZ",4,1385,72),
+  ("produto_WXY",17,2900,88),
+  ("produto_UOJ",15,222,15),
+  ("produto_UVW",12,1640,59),
+  ("produto_TUV",18,1041,83);
+INSERT INTO `produtos` (`nome`,`categoria_id`,`preco`,`estoque`)
+VALUES
+  ("produto_HRF",11,2284,8),
+  ("produto_TPL",14,1819,28),
+  ("produto_FGH",1,2502,97),
+  ("produto_DUH",16,665,100),
+  ("produto_HMJ",4,887,66),
+  ("produto_CKN",2,1527,88),
+  ("produto_WWE",5,2474,87),
+  ("produto_BLK",20,2288,98),
+  ("produto_EFG",11,2804,60),
+  ("produto_RMJ",5,536,90);
+INSERT INTO `produtos` (`nome`,`categoria_id`,`preco`,`estoque`)
+VALUES
+  ("produto_FLK",12,2067,73),
+  ("produto_UVW",17,854,68),
+  ("produto_NPL",7,1088,23),
+  ("produto_VLK",17,2402,22),
+  ("produto_TUV",19,2691,81),
+  ("produto_OXA",13,165,37),
+  ("",16,2612,94),
+  ("produto_JKL",18,656,10),
+  ("produto_MKN",5,2134,52),
+  ("produto_RTG",14,1844,92);
+INSERT INTO `produtos` (`nome`,`categoria_id`,`preco`,`estoque`)
+VALUES
+  ("produto_PSD",18,1009,7),
+  ("produto_WMN",16,1437,18),
+  ("produto_KLP",11,1826,62),
+  ("produto_BLK",6,1089,34),
+  ("produto_JUH",19,353,5),
+  ("produto_WWE",16,2384,19),
+  ("produto_YUH",7,1284,40),
+  ("produto_UBH",12,1874,55),
+  ("produto_PQR",4,1708,53),
+  ("produto_RTG",19,1354,53);
+INSERT INTO `produtos` (`nome`,`categoria_id`,`preco`,`estoque`)
+VALUES
+  ("produto_ZAB",8,2407,53),
+  ("produto_VMJ",9,275,62),
+  ("produto_RMJ",3,322,28),
+  ("produto_XXA",8,2177,95),
+  ("produto_QRS",7,2114,15),
+  ("produto_YZC",19,1041,95),
+  ("produto_DXA",8,2171,65),
+  ("produto_ZTG",20,2640,32),
+  ("produto_PTG",19,2541,63),
+  ("produto_ITG",10,424,61);
+INSERT INTO `produtos` (`nome`,`categoria_id`,`preco`,`estoque`)
+VALUES
+  ("produto_MNO",6,2811,81),
+  ("produto_WAE",4,408,65),
+  ("produto_VND",16,1646,21),
+  ("produto_KLP",12,405,52),
+  ("produto_ZND",13,1827,57),
+  ("produto_EOJ",14,1511,58),
+  ("produto_YZC",13,1732,53),
+  ("produto_CMN",5,2751,74),
+  ("produto_ABC",16,141,30),
+  ("produto_OXA",12,1771,91);
+INSERT INTO `produtos` (`nome`,`categoria_id`,`preco`,`estoque`)
+VALUES
+  ("produto_ETG",3,2735,3),
+  ("produto_YZA",13,2586,44),
+  ("produto_WPL",3,2371,63),
+  ("produto_HXA",19,1398,64),
+  ("produto_FTG",9,728,40),
+  ("produto_CTG",5,1662,60),
+  ("produto_GBH",15,931,25),
+  ("produto_BMJ",16,1984,44),
+  ("produto_FLK",8,1152,60),
+  ("produto_XRF",20,2030,2);
